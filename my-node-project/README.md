@@ -1,0 +1,7 @@
+![Task 1 ](../1.png)
+![Package.json](../3.png)
+![ Build Docker Image](../4.png)
+![ Run a Container Based on the Image](../5.png)
+![Check the npm Version](../6.png)
+![Create a File in the Volume](../7.png)
+![Source code ](../8.png)
