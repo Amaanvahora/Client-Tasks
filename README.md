@@ -6,13 +6,13 @@ This project includes a Docker setup for a Node.js application. The following do
 
 ### Task 1: Create a Docker Image with Node.js Installed
 
-- **1.png** - Shows the Dockerfile with Node.js specified as the base image.
+- **[1.png](https://github.com/Amaanvahora/Exam-4034/blob/main/1.png)** - Shows the Dockerfile with Node.js specified as the base image.
 
 ### Task 2: Add a Tag to the Image
 
-- **3.png** - Demonstrates the Docker image being built with the tag `docker-4034:v1.0`.
+- **[3.png](https://github.com/Amaanvahora/Exam-4034/blob/main/1.png)** - Demonstrates the Docker image being built with the tag `docker-4034:v1.0`.
 
-### Task 3: Run a Container Based on the Image
+### [Task ](https://github.com/Amaanvahora/Exam-4034/blob/main/1.png)3: Run a Container Based on the Image
 
 - **4.png** - Illustrates the command to run the Docker container from the image, mounting the current directory as a volume.
 
