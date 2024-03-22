@@ -34,4 +34,3 @@ This project includes a Docker setup for a Node.js application. The following do
 
 ---
 
-For any additional information or further assistance, please refer to the Docker and Node.js official documentation.
