@@ -1,5 +1,5 @@
 ![Step 1](1.png)
-*Simple HTML file *
+*Simple HTML file*
 
 ![Step 2](2.png)
 *Simple Docker File*
